@@ -1,0 +1,62 @@
+.titulo
+{  
+    color: blueviolet;
+}
+
+.imagem1
+{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.imagem2
+{
+    text-align: center;
+}
+
+.conteudo1
+{
+    font-size: 14px;
+    color: chocolate;
+    background-color: black;
+    border: 5px solid red;
+    margin: 25px 25px 25px 25px;
+    padding:  10px 10px 10px 10px;
+}
+
+.conteudo2
+{
+    font-size: 20px;
+    color: blueviolet;
+    background-color: magenta;
+    padding-left: 25px;
+    padding-top: 15px;
+    border-width: 7px;
+    border-style: ridge; 
+    border-color: aqua;
+}
+
+.conteudo3
+{
+    font-size: 25px;
+    color: rgb(28, 136, 60);
+    background-color: rgb(49, 41, 156);
+    margin-left: 25px;
+    margin-top: 10px;
+    padding-left: 25px;
+    padding-top: 15px;
+    border-width: 10px;
+    border-style: double; 
+    border-color: rgb(211, 148, 32);
+}
+
+.Linha
+{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
